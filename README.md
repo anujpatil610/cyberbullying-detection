@@ -1,2 +1,2 @@
-# cyberbullying-detection
-Cyberbullying Detection in Social Media Using Supervised ML &amp; NLP Techniques
+# Cyberbullying Detection in Social Media Using Supervised ML & NLP Techniques
+\n\n## Submitted to: Savetribai Phule Pune University, Pune\n\n### Award of Degree: Bachelor of Engineering (Computer Engineering)\n\nThis project report entitled as "Cyberbullying Detection in Social Media Using Supervised ML & NLP Techniques" is a comprehensive research and development project undertaken by Gayatri Battise, Jivan Devhare, Anklesh Patil, and Anuj Patil as a requirement for the partial fulfillment of the degree requirements at SAV University. The project aims to explore and develop methods to identify and prevent cyberbullying activities on social media platforms using advanced machine learning and natural language processing techniques.
